@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+_"This is software, right. It would be preferred to find the best person and then the best solution instead of whichever one is fastest" - @tjdevries_
+
 - 🔭 I’m currently working on Neovim tutorials
 - 🌱 I’m currently learning Elixir
 - 👯 I’m looking to collaborate on any and all open-source
