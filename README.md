@@ -1,7 +1,14 @@
 <div align="center">
-```Markdown
-    will this code block work?
+
 ```
+    __                  __  __                   __
+   / /_  ___  __  __   / /_/ /_  ___  ________  / /
+  / __ \/ _ \/ / / /  / __/ __ \/ _ \/ ___/ _ \/ / 
+ / / / /  __/ /_/ /  / /_/ / / /  __/ /  /  __/_/  
+/_/ /_/\___/\__, /   \__/_/ /_/\___/_/   \___(_)   
+           /____/                                  
+```
+
 </div>
 
 _"This is software, right. It would be preferred to find the best person and then the best solution instead of whichever one is fastest" - [@tjdevries](https://github.com/tjdevries)_
