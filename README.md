@@ -1,5 +1,5 @@
 <div align="center">
-```
+```Markdown
     will this code block work?
 ```
 </div>
