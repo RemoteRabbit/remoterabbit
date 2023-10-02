@@ -1,7 +1,9 @@
 <div align="center">
-    ```
-    test
-    ```
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
 </div>
 
 _"This is software, right. It would be preferred to find the best person and then the best solution instead of whichever one is fastest" - [@tjdevries](https://github.com/tjdevries)_
