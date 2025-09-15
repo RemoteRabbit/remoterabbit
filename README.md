@@ -1,4 +1,6 @@
 <div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+RemoteRabbit's+Profile!;Full-Stack+Developer;Building+Cool+Stuff+Daily&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000)](https://remoterabbit.io)
 
 ```
 
@@ -12,6 +14,11 @@
                                                                                    
 ```
 
+<h3>🌐 <a href="https://remoterabbit.io">Visit My Portfolio</a> | 💼 Full-Stack Developer | 🚀 Open Source Enthusiast</h3>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=remoterabbit&color=brightgreen&style=flat-square)](https://remoterabbit.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-remoterabbit.io-blue?style=flat-square&logo=firefox)](https://remoterabbit.io)
+
 </div>
 
 <div align="center">
@@ -23,4 +30,30 @@
 </a>
 
 Hosted on Vercel @ github-readme-stats-remoterabbit.vercel.app
+</div>
+
+---
+
+## 🏅 Professional Certifications
+
+<div align="center">
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+</div>
+
+---
+
+## 🔥 Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<div align="center">
+
+### 🌟 Show some ❤️ by starring some repositories!
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=remoterabbit&theme=transparent)](https://remoterabbit.io)
+
 </div>
