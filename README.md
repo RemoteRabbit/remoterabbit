@@ -14,7 +14,7 @@
                                                                                    
 ```
 
-<h3>🌐 <a href="https://remoterabbit.io">Visit My Portfolio</a> | 💼 Full-Stack Developer | 🚀 Open Source Enthusiast</h3>
+<h3>🌐 <a href="https://remoterabbit.io">Visit My Portfolio</a> | 💼 Senior Platform Consultant | 🚀 Open Source Enthusiast |  Neovim Convert</h3>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=remoterabbit&color=brightgreen&style=flat-square)](https://remoterabbit.io)
 [![Portfolio](https://img.shields.io/badge/Portfolio-remoterabbit.io-blue?style=flat-square&logo=firefox)](https://remoterabbit.io)
