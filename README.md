@@ -34,6 +34,10 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=remoterabbit&theme=transparent)](https://remoterabbit.io)
 
+<a href="https://wakatime.com/@remoterabbit">
+  <img height=165 src="https://github-readme-stats.vercel.app/api/wakatime?username=remoterabbit&theme=transparent&hide_border=true&layout=compact" />
+</a>
+
 </div>
 
 ---
