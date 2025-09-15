@@ -26,13 +26,6 @@
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=165 src="https://github-readme-stats.vercel.app/api?username=remoterabbit&show_icons=true&theme=transparent&hide_border=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=remoterabbit&layout=compact&theme=transparent&hide_border=true" />
-</a>
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=remoterabbit&theme=transparent)](https://remoterabbit.io)
 
 <!--START_SECTION:waka-->
