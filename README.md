@@ -36,6 +36,78 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=remoterabbit&theme=transparent)](https://remoterabbit.io)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2047%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.6%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 43.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 594 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 44 Public Repositories 
+ > 
+> 🔑 2 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                274 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+🌆 Daytime                2243 commits        ██████████████░░░░░░░░░░░   54.56 % 
+🌃 Evening                1506 commits        █████████░░░░░░░░░░░░░░░░   36.63 % 
+🌙 Night                  88 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   716 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+Tuesday                  773 commits         █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
+Wednesday                545 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Thursday                 437 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+Friday                   952 commits         ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
+Saturday                 143 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+Sunday                   545 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Chicago
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Shell                    7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
+Lua                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+HCL                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Jinja                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Nix                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/RemoteRabbit/RemoteRabbit/main/assets/bar_graph.png)
+
+
+ Last Updated on 15/09/2025 04:22:30 UTC
 <!--END_SECTION:waka-->
 
 </div>
