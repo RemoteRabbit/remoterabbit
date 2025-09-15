@@ -14,7 +14,7 @@
                                                                                    
 ```
 
-<h3>🌐 <a href="https://remoterabbit.io">Visit My Portfolio</a> | 💼 Senior Platform Consultant | 🚀 Open Source Enthusiast | ![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) Convert</h3>
+<h3>🌐 <a href="https://remoterabbit.io">Visit My Portfolio</a> | 💼 Senior Platform Consultant | 🚀 Open Source Enthusiast | <img src="https://img.shields.io/badge/Neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" /></h3>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=remoterabbit&color=brightgreen&style=flat-square)](https://remoterabbit.io)
 [![Portfolio](https://img.shields.io/badge/Portfolio-remoterabbit.io-blue?style=flat-square&logo=firefox)](https://remoterabbit.io)
