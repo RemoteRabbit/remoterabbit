@@ -69,41 +69,13 @@
 
 ## 🛠️ Platform Engineering Expertise
 
-<div align="left">
+<div align="center">
 
-**☁️ Cloud Architecture**
+☁️ **Cloud Architecture** • 🔄 **CI/CD & DevOps** • 📦 **Containerization** • 🤖 **Infrastructure Automation**
 
-- Designing scalable, cost-effective multi-cloud solutions with focus on AWS, Azure, and GCP
-- Implementing cloud-native patterns for high availability and disaster recovery
+🚀 **Application Modernization** • ⚡ **Performance & Scalability** • 🛠️ **Developer Experience**
 
-**🔄 CI/CD & DevOps**
-
-- Streamlining deployment pipelines with GitLab CI, GitHub Actions, and enterprise tooling
-- Building automated testing strategies and deployment orchestration
-
-**📦 Containerization & Orchestration**
-
-- Cutting costs and improving simplicity through strategic containerization with Docker
-
-**🤖 Infrastructure Automation**
-
-- Eliminating repetitive tasks through Terraform, Ansible, and custom tooling
-- Infrastructure as Code practices for consistent, reproducible environments  
-
-**🚀 Application Modernization**
-
-- Legacy system modernization and microservices architecture design
-- API-first development strategies and event-driven architectures
-
-**⚡ Performance & Scalability**
-
-- CDN optimization and edge computing strategies
-- Load balancing, auto-scaling, and performance monitoring solutions
-
-**🛠️ Developer Experience**
-
-- Building internal tooling and platforms that improve developer productivity
-- Establishing standards and best practices for development workflows
+*Multi-cloud solutions • CI/CD pipelines • Container orchestration • Terraform automation*
 
 </div>
 
