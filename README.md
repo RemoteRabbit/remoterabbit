@@ -21,6 +21,92 @@
 
 </div>
 
+## 📊 GitHub Metrics
+
+<div align="center">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=165 src="https://github-readme-stats.vercel.app/api?username=remoterabbit&show_icons=true&theme=transparent&hide_border=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=remoterabbit&layout=compact&theme=transparent&hide_border=true" />
+</a>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=remoterabbit&theme=transparent)](https://remoterabbit.io)
+
+</div>
+
+---
+
+## 💡 Platform Engineering Philosophy
+
+<div align="center">
+
+*Embrace change, appreciate variety, and thrive in solving complex business problems with Platform Engineering.*
+
+*Enabling organizational consistency • Automating repetitive tasks • Designing scalable solutions*
+
+</div>
+
+---
+
+## 🏢 Trusted by Leading Organizations
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Star%20Tribune-0066CC?style=for-the-badge&logoColor=white" alt="Star Tribune" />
+<img src="https://img.shields.io/badge/CVS%20Health-CC0000?style=for-the-badge&logoColor=white" alt="CVS Health" />
+<img src="https://img.shields.io/badge/Medtronic-0052CC?style=for-the-badge&logoColor=white" alt="Medtronic" />
+<img src="https://img.shields.io/badge/Sun%20Country-FFD700?style=for-the-badge&color=FF6B35&logoColor=white" alt="Sun Country Airlines" />
+<img src="https://img.shields.io/badge/Wendy's-E31837?style=for-the-badge&logoColor=white" alt="Wendy's" />
+<img src="https://img.shields.io/badge/SailPoint-00A9CE?style=for-the-badge&logoColor=white" alt="SailPoint" />
+<img src="https://img.shields.io/badge/MPR-4B0082?style=for-the-badge&logoColor=white" alt="Minnesota Public Radio" />
+<img src="https://img.shields.io/badge/Improving-00A651?style=for-the-badge&logoColor=white" alt="Improving" />
+
+</div>
+
+---
+
+## 🛠️ Platform Engineering Expertise
+
+<div align="left">
+
+**☁️ Cloud Architecture**
+
+- Designing scalable, cost-effective multi-cloud solutions with focus on AWS, Azure, and GCP
+- Implementing cloud-native patterns for high availability and disaster recovery
+
+**🔄 CI/CD & DevOps**
+
+- Streamlining deployment pipelines with GitLab CI, GitHub Actions, and enterprise tooling
+- Building automated testing strategies and deployment orchestration
+
+**📦 Containerization & Orchestration**
+
+- Cutting costs and improving simplicity through strategic containerization with Docker
+
+**🤖 Infrastructure Automation**
+
+- Eliminating repetitive tasks through Terraform, Ansible, and custom tooling
+- Infrastructure as Code practices for consistent, reproducible environments  
+
+**🚀 Application Modernization**
+
+- Legacy system modernization and microservices architecture design
+- API-first development strategies and event-driven architectures
+
+**⚡ Performance & Scalability**
+
+- CDN optimization and edge computing strategies
+- Load balancing, auto-scaling, and performance monitoring solutions
+
+**🛠️ Developer Experience**
+
+- Building internal tooling and platforms that improve developer productivity
+- Establishing standards and best practices for development workflows
+
+</div>
+
 ---
 
 ## 🏅 Professional Certifications
@@ -54,7 +140,5 @@
 <div align="center">
 
 ### 🌟 Show some ❤️ by starring some repositories
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=remoterabbit&theme=transparent)](https://remoterabbit.io)
 
 </div>
