@@ -18,6 +18,68 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=remoterabbit&color=brightgreen&style=flat-square)](https://remoterabbit.io)
 [![Portfolio](https://img.shields.io/badge/Portfolio-remoterabbit.io-blue?style=flat-square&logo=firefox)](https://remoterabbit.io)
+[![wakatime](https://wakatime.com/badge/user/48c6d38d-93ba-460c-b4d4-7194697729bf.svg)](https://wakatime.com/@48c6d38d-93ba-460c-b4d4-7194697729bf)
+
+</div>
+
+## 📊 GitHub Metrics
+
+<div align="center">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=165 src="https://github-readme-stats.vercel.app/api?username=remoterabbit&show_icons=true&theme=transparent&hide_border=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=remoterabbit&layout=compact&theme=transparent&hide_border=true" />
+</a>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=remoterabbit&theme=transparent)](https://remoterabbit.io)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+## 💡 Platform Engineering Philosophy
+
+<div align="center">
+
+*Embrace change, appreciate variety, and thrive in solving complex business problems with Platform Engineering.*
+
+*Enabling organizational consistency • Automating repetitive tasks • Designing scalable solutions*
+
+</div>
+
+---
+
+## 🏢 Trusted by Leading Organizations
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Star%20Tribune-0066CC?style=for-the-badge&logoColor=white" alt="Star Tribune" />
+<img src="https://img.shields.io/badge/CVS%20Health-CC0000?style=for-the-badge&logoColor=white" alt="CVS Health" />
+<img src="https://img.shields.io/badge/Medtronic-0052CC?style=for-the-badge&logoColor=white" alt="Medtronic" />
+<img src="https://img.shields.io/badge/Sun%20Country-FFD700?style=for-the-badge&color=FF6B35&logoColor=white" alt="Sun Country Airlines" />
+<img src="https://img.shields.io/badge/Wendy's-E31837?style=for-the-badge&logoColor=white" alt="Wendy's" />
+<img src="https://img.shields.io/badge/SailPoint-00A9CE?style=for-the-badge&logoColor=white" alt="SailPoint" />
+<img src="https://img.shields.io/badge/MPR-4B0082?style=for-the-badge&logoColor=white" alt="Minnesota Public Radio" />
+<img src="https://img.shields.io/badge/Improving-00A651?style=for-the-badge&logoColor=white" alt="Improving" />
+
+</div>
+
+---
+
+## 🛠️ Platform Engineering Expertise
+
+<div align="center">
+
+☁️ **Cloud Architecture** • 🔄 **CI/CD & DevOps** • 📦 **Containerization** • 🤖 **Infrastructure Automation**
+
+🚀 **Application Modernization** • ⚡ **Performance & Scalability** • 🛠️ **Developer Experience**
+
+*Multi-cloud solutions • CI/CD pipelines • Container orchestration • Terraform automation*
 
 </div>
 
@@ -54,7 +116,5 @@
 <div align="center">
 
 ### 🌟 Show some ❤️ by starring some repositories
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=remoterabbit&theme=transparent)](https://remoterabbit.io)
 
 </div>
