@@ -18,6 +18,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=remoterabbit&color=brightgreen&style=flat-square)](https://remoterabbit.io)
 [![Portfolio](https://img.shields.io/badge/Portfolio-remoterabbit.io-blue?style=flat-square&logo=firefox)](https://remoterabbit.io)
+[![wakatime](https://wakatime.com/badge/user/48c6d38d-93ba-460c-b4d4-7194697729bf.svg)](https://wakatime.com/@48c6d38d-93ba-460c-b4d4-7194697729bf)
 
 </div>
 
@@ -34,9 +35,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=remoterabbit&theme=transparent)](https://remoterabbit.io)
 
-<a href="https://wakatime.com/@remoterabbit">
-  <img height=165 src="https://github-readme-stats.vercel.app/api/wakatime?username=remoterabbit&theme=transparent&hide_border=true&layout=compact" />
-</a>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </div>
 
