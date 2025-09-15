@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+RemoteRabbit's+Profile!;Full-Stack+Developer;Building+Cool+Stuff+Daily&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000)](https://remoterabbit.io)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AAD32&width=435&lines=Welcome+in!;Senior+Platform+Consultant;Neovim+convert)](https://remoterabbit.io)
 
 ```
 
@@ -52,7 +52,7 @@ Hosted on Vercel @ github-readme-stats-remoterabbit.vercel.app
 
 <div align="center">
 
-### 🌟 Show some ❤️ by starring some repositories!
+### 🌟 Show some ❤️ by starring some repositories
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=remoterabbit&theme=transparent)](https://remoterabbit.io)
 
