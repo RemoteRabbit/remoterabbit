@@ -45,6 +45,10 @@
 ## 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#11](https://github.com/RemoteRabbit/nvim/pull/11) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
+2. 💪 Opened PR [#11](https://github.com/RemoteRabbit/nvim/pull/11) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
+3. 🎉 Merged PR [#16](https://github.com/RemoteRabbit/homeLab/pull/16) in [RemoteRabbit/homeLab](https://github.com/RemoteRabbit/homeLab)
+4. 💪 Opened PR [#16](https://github.com/RemoteRabbit/homeLab/pull/16) in [RemoteRabbit/homeLab](https://github.com/RemoteRabbit/homeLab)
 <!--END_SECTION:activity-->
 
 <div align="center">
