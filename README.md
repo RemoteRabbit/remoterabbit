@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AAD32&width=435&lines=Welcome+in!;Senior+Platform+Consultant;Neovim+convert)](https://remoterabbit.io)
+[![Typing SVG](https://readme-typing-svg.demolab.com/demo/?duration=3000&pause=250&color=1AAD32&center=true&vCenter=true&lines=Welcome+in!;Senior+Platform+Consultant;Neovim+convert)](https://remoterabbit.io)
 
 ```
 
