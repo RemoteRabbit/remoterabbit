@@ -1,0 +1,24 @@
+name: Update Credly Badges
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Weekly on Sunday
+  workflow_dispatch:
+
+jobs:
+  update-badges:
+    runs-on: ubuntu-latest
+    name: Update README with latest Credly badges
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        
+      - name: Update Credly Badges
+        uses: pemtajo/badge-readme@main
+        with:
+          CREDLY_USER: tristan-jahnke
+          CREDLY_SORT: date
+          COMMENT_TAG_NAME: badges
+          COMMIT_MESSAGE: 'Update badges with latest certifications'
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
