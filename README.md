@@ -154,10 +154,10 @@ Nix                      1 repo              █░░░░░░░░░░�
 ## 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/RemoteRabbit/terrareg/pull/2) in [RemoteRabbit/terrareg](https://github.com/RemoteRabbit/terrareg)
-2. 💪 Opened PR [#2](https://github.com/RemoteRabbit/terrareg/pull/2) in [RemoteRabbit/terrareg](https://github.com/RemoteRabbit/terrareg)
-3. 🎉 Merged PR [#15](https://github.com/RemoteRabbit/nvim/pull/15) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
-4. 🚀 Published release [test](https://github.com/RemoteRabbit/terrareg/releases/tag/v0.0.1-1) in [RemoteRabbit/terrareg](https://github.com/RemoteRabbit/terrareg)
+1. 🎉 Merged PR [#16](https://github.com/RemoteRabbit/nvim/pull/16) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
+2. 💪 Opened PR [#16](https://github.com/RemoteRabbit/nvim/pull/16) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
+3. 🎉 Merged PR [#2](https://github.com/RemoteRabbit/terrareg/pull/2) in [RemoteRabbit/terrareg](https://github.com/RemoteRabbit/terrareg)
+4. 💪 Opened PR [#2](https://github.com/RemoteRabbit/terrareg/pull/2) in [RemoteRabbit/terrareg](https://github.com/RemoteRabbit/terrareg)
 <!--END_SECTION:activity-->
 
 <div align="center">
