@@ -154,10 +154,10 @@ Nix                      1 repo              █░░░░░░░░░░�
 ## 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/RemoteRabbit/nvim/pull/20) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
-2. 💪 Opened PR [#20](https://github.com/RemoteRabbit/nvim/pull/20) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
-3. 🎉 Merged PR [#19](https://github.com/RemoteRabbit/nvim/pull/19) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
-4. 💪 Opened PR [#19](https://github.com/RemoteRabbit/nvim/pull/19) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
+1. 💪 Opened PR [#20](undefined) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
+2. 💪 Opened PR [#19](undefined) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
+3. 💪 Opened PR [#18](undefined) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
+4. 💪 Opened PR [#17](undefined) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
 <!--END_SECTION:activity-->
 
 <div align="center">
