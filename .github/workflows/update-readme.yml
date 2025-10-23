@@ -3,7 +3,7 @@ name: Update README with latest activity
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # Runs every 30 minutes
+    - cron: '0 0 * * 0'  # Weekly on Sunday
   workflow_dispatch:
 
 jobs:
