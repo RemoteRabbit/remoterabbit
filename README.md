@@ -154,10 +154,10 @@ Nix                      1 repo              █░░░░░░░░░░�
 ## 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](undefined) in [RemoteRabbit/zsh](https://github.com/RemoteRabbit/zsh)
-2. 💪 Opened PR [#19](undefined) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
-3. 💪 Opened PR [#18](undefined) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
-4. 💪 Opened PR [#17](undefined) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
+1. ❌ Merged PR [#1](undefined) in [RemoteRabbit/waybar](https://github.com/RemoteRabbit/waybar)
+2. 💪 Opened PR [#1](undefined) in [RemoteRabbit/waybar](https://github.com/RemoteRabbit/waybar)
+3. ❌ Merged PR [#263](undefined) in [databricks-industry-solutions/security-analysis-tool](https://github.com/databricks-industry-solutions/security-analysis-tool)
+4. ❌ Merged PR [#3](undefined) in [RemoteRabbit/hypr](https://github.com/RemoteRabbit/hypr)
 <!--END_SECTION:activity-->
 
 <div align="center">
