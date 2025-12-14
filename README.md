@@ -154,10 +154,10 @@ Nix                      1 repo              █░░░░░░░░░░�
 ## 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#1](undefined) in [RemoteRabbit/waybar](https://github.com/RemoteRabbit/waybar)
-2. 💪 Opened PR [#1](undefined) in [RemoteRabbit/waybar](https://github.com/RemoteRabbit/waybar)
-3. ❌ Merged PR [#263](undefined) in [databricks-industry-solutions/security-analysis-tool](https://github.com/databricks-industry-solutions/security-analysis-tool)
-4. ❌ Merged PR [#3](undefined) in [RemoteRabbit/hypr](https://github.com/RemoteRabbit/hypr)
+1. 🗣 Commented on [#831](https://github.com/SumoLogic/terraform-provider-sumologic/pull/831#issuecomment-3633516573) in [SumoLogic/terraform-provider-sumologic](https://github.com/SumoLogic/terraform-provider-sumologic)
+2. ❌ Merged PR [#21](undefined) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
+3. 💪 Opened PR [#21](undefined) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
+4. ❌ Merged PR [#1](undefined) in [RemoteRabbit/waybar](https://github.com/RemoteRabbit/waybar)
 <!--END_SECTION:activity-->
 
 <div align="center">
