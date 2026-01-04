@@ -155,9 +155,9 @@ Nix                      1 repo              █░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#831](https://github.com/SumoLogic/terraform-provider-sumologic/pull/831#issuecomment-3633516573) in [SumoLogic/terraform-provider-sumologic](https://github.com/SumoLogic/terraform-provider-sumologic)
-2. ❌ Merged PR [#21](undefined) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
-3. 💪 Opened PR [#21](undefined) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
-4. ❌ Merged PR [#1](undefined) in [RemoteRabbit/waybar](https://github.com/RemoteRabbit/waybar)
+2. 🎉 Merged PR [#21](https://github.com/RemoteRabbit/nvim/pull/21) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
+3. 💪 Opened PR [#21](https://github.com/RemoteRabbit/nvim/pull/21) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
+4. 🎉 Merged PR [#1](https://github.com/RemoteRabbit/waybar/pull/1) in [RemoteRabbit/waybar](https://github.com/RemoteRabbit/waybar)
 <!--END_SECTION:activity-->
 
 <div align="center">
