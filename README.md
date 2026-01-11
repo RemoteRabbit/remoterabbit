@@ -154,9 +154,9 @@ Nix                      1 repo              █░░░░░░░░░░�
 ## 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#831](https://github.com/SumoLogic/terraform-provider-sumologic/pull/831#issuecomment-3633516573) in [SumoLogic/terraform-provider-sumologic](https://github.com/SumoLogic/terraform-provider-sumologic)
-2. 🎉 Merged PR [#21](https://github.com/RemoteRabbit/nvim/pull/21) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
-3. 💪 Opened PR [#21](https://github.com/RemoteRabbit/nvim/pull/21) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
+1. 🎉 Merged PR [#4](https://github.com/RemoteRabbit/hypr/pull/4) in [RemoteRabbit/hypr](https://github.com/RemoteRabbit/hypr)
+2. 💪 Opened PR [#4](https://github.com/RemoteRabbit/hypr/pull/4) in [RemoteRabbit/hypr](https://github.com/RemoteRabbit/hypr)
+3. 💪 Opened PR [#217](https://github.com/databricks/terraform-databricks-sra/pull/217) in [databricks/terraform-databricks-sra](https://github.com/databricks/terraform-databricks-sra)
 4. 🎉 Merged PR [#1](https://github.com/RemoteRabbit/waybar/pull/1) in [RemoteRabbit/waybar](https://github.com/RemoteRabbit/waybar)
 <!--END_SECTION:activity-->
 
