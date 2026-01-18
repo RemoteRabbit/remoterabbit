@@ -154,10 +154,10 @@ Nix                      1 repo              █░░░░░░░░░░�
 ## 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/RemoteRabbit/hypr/pull/4) in [RemoteRabbit/hypr](https://github.com/RemoteRabbit/hypr)
-2. 💪 Opened PR [#4](https://github.com/RemoteRabbit/hypr/pull/4) in [RemoteRabbit/hypr](https://github.com/RemoteRabbit/hypr)
-3. 💪 Opened PR [#217](https://github.com/databricks/terraform-databricks-sra/pull/217) in [databricks/terraform-databricks-sra](https://github.com/databricks/terraform-databricks-sra)
-4. 🎉 Merged PR [#1](https://github.com/RemoteRabbit/waybar/pull/1) in [RemoteRabbit/waybar](https://github.com/RemoteRabbit/waybar)
+1. 🎉 Merged PR [#20](https://github.com/RemoteRabbit/pre-commit-snippets/pull/20) in [RemoteRabbit/pre-commit-snippets](https://github.com/RemoteRabbit/pre-commit-snippets)
+2. 💪 Opened PR [#20](https://github.com/RemoteRabbit/pre-commit-snippets/pull/20) in [RemoteRabbit/pre-commit-snippets](https://github.com/RemoteRabbit/pre-commit-snippets)
+3. 🎉 Merged PR [#19](https://github.com/RemoteRabbit/pre-commit-snippets/pull/19) in [RemoteRabbit/pre-commit-snippets](https://github.com/RemoteRabbit/pre-commit-snippets)
+4. 💪 Opened PR [#19](https://github.com/RemoteRabbit/pre-commit-snippets/pull/19) in [RemoteRabbit/pre-commit-snippets](https://github.com/RemoteRabbit/pre-commit-snippets)
 <!--END_SECTION:activity-->
 
 <div align="center">
