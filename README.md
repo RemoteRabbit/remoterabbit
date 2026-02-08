@@ -154,10 +154,10 @@ Nix                      1 repo              █░░░░░░░░░░�
 ## 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#217](https://github.com/databricks/terraform-databricks-sra/pull/217) in [databricks/terraform-databricks-sra](https://github.com/databricks/terraform-databricks-sra)
-2. 🎉 Merged PR [#20](https://github.com/RemoteRabbit/pre-commit-snippets/pull/20) in [RemoteRabbit/pre-commit-snippets](https://github.com/RemoteRabbit/pre-commit-snippets)
-3. 💪 Opened PR [#20](https://github.com/RemoteRabbit/pre-commit-snippets/pull/20) in [RemoteRabbit/pre-commit-snippets](https://github.com/RemoteRabbit/pre-commit-snippets)
-4. 🎉 Merged PR [#19](https://github.com/RemoteRabbit/pre-commit-snippets/pull/19) in [RemoteRabbit/pre-commit-snippets](https://github.com/RemoteRabbit/pre-commit-snippets)
+1. 🎉 Merged PR [#25](https://github.com/RemoteRabbit/nvim/pull/25) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
+2. 💪 Opened PR [#25](https://github.com/RemoteRabbit/nvim/pull/25) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
+3. 🎉 Merged PR [#24](https://github.com/RemoteRabbit/nvim/pull/24) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
+4. 💪 Opened PR [#24](https://github.com/RemoteRabbit/nvim/pull/24) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
 <!--END_SECTION:activity-->
 
 <div align="center">
