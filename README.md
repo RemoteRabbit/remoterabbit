@@ -154,10 +154,10 @@ Nix                      1 repo              █░░░░░░░░░░�
 ## 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#291](https://github.com/databricks-industry-solutions/security-analysis-tool/pull/291) in [databricks-industry-solutions/security-analysis-tool](https://github.com/databricks-industry-solutions/security-analysis-tool)
-2. 💪 Opened PR [#286](https://github.com/databricks-industry-solutions/security-analysis-tool/pull/286) in [databricks-industry-solutions/security-analysis-tool](https://github.com/databricks-industry-solutions/security-analysis-tool)
-3. 💪 Opened PR [#285](https://github.com/databricks-industry-solutions/security-analysis-tool/pull/285) in [databricks-industry-solutions/security-analysis-tool](https://github.com/databricks-industry-solutions/security-analysis-tool)
-4. 🎉 Merged PR [#25](https://github.com/RemoteRabbit/nvim/pull/25) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
+1. 💪 Opened PR [#297](https://github.com/databricks-industry-solutions/security-analysis-tool/pull/297) in [databricks-industry-solutions/security-analysis-tool](https://github.com/databricks-industry-solutions/security-analysis-tool)
+2. 💪 Opened PR [#296](https://github.com/databricks-industry-solutions/security-analysis-tool/pull/296) in [databricks-industry-solutions/security-analysis-tool](https://github.com/databricks-industry-solutions/security-analysis-tool)
+3. 💪 Opened PR [#291](https://github.com/databricks-industry-solutions/security-analysis-tool/pull/291) in [databricks-industry-solutions/security-analysis-tool](https://github.com/databricks-industry-solutions/security-analysis-tool)
+4. 💪 Opened PR [#286](https://github.com/databricks-industry-solutions/security-analysis-tool/pull/286) in [databricks-industry-solutions/security-analysis-tool](https://github.com/databricks-industry-solutions/security-analysis-tool)
 <!--END_SECTION:activity-->
 
 <div align="center">
