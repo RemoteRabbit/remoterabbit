@@ -154,10 +154,10 @@ Nix                      1 repo              █░░░░░░░░░░�
 ## 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#286](https://github.com/databricks-industry-solutions/security-analysis-tool/pull/286#issuecomment-4049082440) in [databricks-industry-solutions/security-analysis-tool](https://github.com/databricks-industry-solutions/security-analysis-tool)
-2. ❌ Closed PR [#286](https://github.com/databricks-industry-solutions/security-analysis-tool/pull/286) in [databricks-industry-solutions/security-analysis-tool](https://github.com/databricks-industry-solutions/security-analysis-tool)
-3. 💪 Opened PR [#297](https://github.com/databricks-industry-solutions/security-analysis-tool/pull/297) in [databricks-industry-solutions/security-analysis-tool](https://github.com/databricks-industry-solutions/security-analysis-tool)
-4. 💪 Opened PR [#296](https://github.com/databricks-industry-solutions/security-analysis-tool/pull/296) in [databricks-industry-solutions/security-analysis-tool](https://github.com/databricks-industry-solutions/security-analysis-tool)
+1. ℹ️ Assigned issue [#17](https://github.com/RemoteRabbit/pr-description.nvim/issues/17) in [RemoteRabbit/pr-description.nvim](https://github.com/RemoteRabbit/pr-description.nvim)
+2. ℹ️ Assigned issue [#27](https://github.com/RemoteRabbit/pr-description.nvim/issues/27) in [RemoteRabbit/pr-description.nvim](https://github.com/RemoteRabbit/pr-description.nvim)
+3. ℹ️ Labeled issue [#27](https://github.com/RemoteRabbit/pr-description.nvim/issues/27) in [RemoteRabbit/pr-description.nvim](https://github.com/RemoteRabbit/pr-description.nvim)
+4. ❗ Opened issue [#27](https://github.com/RemoteRabbit/pr-description.nvim/issues/27) in [RemoteRabbit/pr-description.nvim](https://github.com/RemoteRabbit/pr-description.nvim)
 <!--END_SECTION:activity-->
 
 <div align="center">
