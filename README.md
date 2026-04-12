@@ -154,10 +154,10 @@ Nix                      1 repo              █░░░░░░░░░░�
 ## 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#17](https://github.com/RemoteRabbit/pr-description.nvim/issues/17) in [RemoteRabbit/pr-description.nvim](https://github.com/RemoteRabbit/pr-description.nvim)
-2. ℹ️ Assigned issue [#27](https://github.com/RemoteRabbit/pr-description.nvim/issues/27) in [RemoteRabbit/pr-description.nvim](https://github.com/RemoteRabbit/pr-description.nvim)
-3. ℹ️ Labeled issue [#27](https://github.com/RemoteRabbit/pr-description.nvim/issues/27) in [RemoteRabbit/pr-description.nvim](https://github.com/RemoteRabbit/pr-description.nvim)
-4. ❗ Opened issue [#27](https://github.com/RemoteRabbit/pr-description.nvim/issues/27) in [RemoteRabbit/pr-description.nvim](https://github.com/RemoteRabbit/pr-description.nvim)
+1. 🎉 Merged PR [#12](https://github.com/RemoteRabbit/zsh/pull/12) in [RemoteRabbit/zsh](https://github.com/RemoteRabbit/zsh)
+2. 🎉 Merged PR [#4](https://github.com/RemoteRabbit/tmux/pull/4) in [RemoteRabbit/tmux](https://github.com/RemoteRabbit/tmux)
+3. 💪 Opened PR [#4](https://github.com/RemoteRabbit/tmux/pull/4) in [RemoteRabbit/tmux](https://github.com/RemoteRabbit/tmux)
+4. 💪 Opened PR [#12](https://github.com/RemoteRabbit/zsh/pull/12) in [RemoteRabbit/zsh](https://github.com/RemoteRabbit/zsh)
 <!--END_SECTION:activity-->
 
 <div align="center">
