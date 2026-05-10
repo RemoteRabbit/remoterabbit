@@ -154,10 +154,10 @@ Nix                      1 repo              █░░░░░░░░░░�
 ## 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/RemoteRabbit/pre-commit-snippets/pull/23) in [RemoteRabbit/pre-commit-snippets](https://github.com/RemoteRabbit/pre-commit-snippets)
-2. 💪 Opened PR [#23](https://github.com/RemoteRabbit/pre-commit-snippets/pull/23) in [RemoteRabbit/pre-commit-snippets](https://github.com/RemoteRabbit/pre-commit-snippets)
-3. 🎉 Merged PR [#29](https://github.com/RemoteRabbit/nvim/pull/29) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
-4. 💪 Opened PR [#29](https://github.com/RemoteRabbit/nvim/pull/29) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
+1. 🎉 Merged PR [#16](https://github.com/RemoteRabbit/boilplate/pull/16) in [RemoteRabbit/boilplate](https://github.com/RemoteRabbit/boilplate)
+2. 💪 Opened PR [#16](https://github.com/RemoteRabbit/boilplate/pull/16) in [RemoteRabbit/boilplate](https://github.com/RemoteRabbit/boilplate)
+3. 🎉 Merged PR [#15](https://github.com/RemoteRabbit/boilplate/pull/15) in [RemoteRabbit/boilplate](https://github.com/RemoteRabbit/boilplate)
+4. 💪 Opened PR [#15](https://github.com/RemoteRabbit/boilplate/pull/15) in [RemoteRabbit/boilplate](https://github.com/RemoteRabbit/boilplate)
 <!--END_SECTION:activity-->
 
 <div align="center">
