@@ -154,10 +154,10 @@ Nix                      1 repo              █░░░░░░░░░░�
 ## 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/RemoteRabbit/boilplate/pull/16) in [RemoteRabbit/boilplate](https://github.com/RemoteRabbit/boilplate)
-2. 💪 Opened PR [#16](https://github.com/RemoteRabbit/boilplate/pull/16) in [RemoteRabbit/boilplate](https://github.com/RemoteRabbit/boilplate)
-3. 🎉 Merged PR [#15](https://github.com/RemoteRabbit/boilplate/pull/15) in [RemoteRabbit/boilplate](https://github.com/RemoteRabbit/boilplate)
-4. 💪 Opened PR [#15](https://github.com/RemoteRabbit/boilplate/pull/15) in [RemoteRabbit/boilplate](https://github.com/RemoteRabbit/boilplate)
+1. 🎉 Merged PR [#26](https://github.com/RemoteRabbit/conftest-policies/pull/26) in [RemoteRabbit/conftest-policies](https://github.com/RemoteRabbit/conftest-policies)
+2. 💪 Opened PR [#26](https://github.com/RemoteRabbit/conftest-policies/pull/26) in [RemoteRabbit/conftest-policies](https://github.com/RemoteRabbit/conftest-policies)
+3. 🎉 Merged PR [#25](https://github.com/RemoteRabbit/conftest-policies/pull/25) in [RemoteRabbit/conftest-policies](https://github.com/RemoteRabbit/conftest-policies)
+4. 💪 Opened PR [#25](https://github.com/RemoteRabbit/conftest-policies/pull/25) in [RemoteRabbit/conftest-policies](https://github.com/RemoteRabbit/conftest-policies)
 <!--END_SECTION:activity-->
 
 <div align="center">
