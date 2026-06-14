@@ -154,10 +154,10 @@ Nix                      1 repo              █░░░░░░░░░░�
 ## 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#56](https://github.com/RemoteRabbit/open-inspector/pull/56) in [RemoteRabbit/open-inspector](https://github.com/RemoteRabbit/open-inspector)
-2. 💪 Opened PR [#56](https://github.com/RemoteRabbit/open-inspector/pull/56) in [RemoteRabbit/open-inspector](https://github.com/RemoteRabbit/open-inspector)
-3. 🎉 Merged PR [#55](https://github.com/RemoteRabbit/open-inspector/pull/55) in [RemoteRabbit/open-inspector](https://github.com/RemoteRabbit/open-inspector)
-4. 💪 Opened PR [#55](https://github.com/RemoteRabbit/open-inspector/pull/55) in [RemoteRabbit/open-inspector](https://github.com/RemoteRabbit/open-inspector)
+1. 🎉 Merged PR [#73](https://github.com/RemoteRabbit/open-inspector/pull/73) in [RemoteRabbit/open-inspector](https://github.com/RemoteRabbit/open-inspector)
+2. 💪 Opened PR [#73](https://github.com/RemoteRabbit/open-inspector/pull/73) in [RemoteRabbit/open-inspector](https://github.com/RemoteRabbit/open-inspector)
+3. 🎉 Merged PR [#71](https://github.com/RemoteRabbit/open-inspector/pull/71) in [RemoteRabbit/open-inspector](https://github.com/RemoteRabbit/open-inspector)
+4. 💪 Opened PR [#71](https://github.com/RemoteRabbit/open-inspector/pull/71) in [RemoteRabbit/open-inspector](https://github.com/RemoteRabbit/open-inspector)
 <!--END_SECTION:activity-->
 
 <div align="center">
