@@ -23,22 +23,22 @@
 
 ## Some recent work
 
-<table align="center">
-  <tr>
-    <td><a href="https://github.com/remoterabbit/open-inspector"><img src="https://github-readme-stats.vercel.app/api/pin/?username=remoterabbit&repo=open-inspector&title_color=1AAD32&icon_color=1AAD32&text_color=c9d1d9&bg_color=0d1117&border_color=1AAD32&show_owner=true" alt="open-inspector" /></a></td>
-    <td><a href="https://github.com/remoterabbit/conftest-policies"><img src="https://github-readme-stats.vercel.app/api/pin/?username=remoterabbit&repo=conftest-policies&title_color=1AAD32&icon_color=1AAD32&text_color=c9d1d9&bg_color=0d1117&border_color=1AAD32&show_owner=true" alt="conftest-policies" /></a></td>
-    <td><a href="https://github.com/remoterabbit/pre-commit-snippets"><img src="https://github-readme-stats.vercel.app/api/pin/?username=remoterabbit&repo=pre-commit-snippets&title_color=1AAD32&icon_color=1AAD32&text_color=c9d1d9&bg_color=0d1117&border_color=1AAD32&show_owner=true" alt="pre-commit-snippets" /></a></td>
-  </tr>
-</table>
+<div align="center">
+
+<a href="https://github.com/remoterabbit/open-inspector"><img src="https://github-readme-stats.vercel.app/api/pin/?username=remoterabbit&repo=open-inspector&title_color=1AAD32&icon_color=1AAD32&text_color=c9d1d9&bg_color=0d1117&border_color=1AAD32&show_owner=true" alt="open-inspector" /></a>
+<a href="https://github.com/remoterabbit/conftest-policies"><img src="https://github-readme-stats.vercel.app/api/pin/?username=remoterabbit&repo=conftest-policies&title_color=1AAD32&icon_color=1AAD32&text_color=c9d1d9&bg_color=0d1117&border_color=1AAD32&show_owner=true" alt="conftest-policies" /></a>
+<a href="https://github.com/remoterabbit/pre-commit-snippets"><img src="https://github-readme-stats.vercel.app/api/pin/?username=remoterabbit&repo=pre-commit-snippets&title_color=1AAD32&icon_color=1AAD32&text_color=c9d1d9&bg_color=0d1117&border_color=1AAD32&show_owner=true" alt="pre-commit-snippets" /></a>
+
+</div>
 
 ### Neovim
 
-<table align="center">
-  <tr>
-    <td><a href="https://github.com/remoterabbit/pr-description.nvim"><img src="https://github-readme-stats.vercel.app/api/pin/?username=remoterabbit&repo=pr-description.nvim&title_color=1AAD32&icon_color=1AAD32&text_color=c9d1d9&bg_color=0d1117&border_color=1AAD32&show_owner=true" alt="pr-description.nvim" /></a></td>
-    <td><a href="https://github.com/remoterabbit/nvim"><img src="https://github-readme-stats.vercel.app/api/pin/?username=remoterabbit&repo=nvim&title_color=1AAD32&icon_color=1AAD32&text_color=c9d1d9&bg_color=0d1117&border_color=1AAD32&show_owner=true" alt="nvim" /></a></td>
-  </tr>
-</table>
+<div align="center">
+
+<a href="https://github.com/remoterabbit/pr-description.nvim"><img src="https://github-readme-stats.vercel.app/api/pin/?username=remoterabbit&repo=pr-description.nvim&title_color=1AAD32&icon_color=1AAD32&text_color=c9d1d9&bg_color=0d1117&border_color=1AAD32&show_owner=true" alt="pr-description.nvim" /></a>
+<a href="https://github.com/remoterabbit/nvim"><img src="https://github-readme-stats.vercel.app/api/pin/?username=remoterabbit&repo=nvim&title_color=1AAD32&icon_color=1AAD32&text_color=c9d1d9&bg_color=0d1117&border_color=1AAD32&show_owner=true" alt="nvim" /></a>
+
+</div>
 
 ---
 
