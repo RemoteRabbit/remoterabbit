@@ -18,72 +18,18 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=remoterabbit&color=brightgreen&style=flat-square)](https://remoterabbit.io)
 [![Portfolio](https://img.shields.io/badge/Portfolio-remoterabbit.io-blue?style=flat-square&logo=firefox)](https://remoterabbit.io)
-[![wakatime](https://wakatime.com/badge/user/48c6d38d-93ba-460c-b4d4-7194697729bf.svg)](https://wakatime.com/@48c6d38d-93ba-460c-b4d4-7194697729bf)
 
 </div>
 
-## 📊 GitHub Metrics
+## Some recent work
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=remoterabbit&theme=transparent)](https://remoterabbit.io)
+[![open-inspector](https://github-readme-stats.vercel.app/api/pin/?username=remoterabbit&repo=open-inspector&title_color=1AAD32&icon_color=1AAD32&text_color=c9d1d9&bg_color=0d1117&border_color=1AAD32&show_owner=true)](https://github.com/remoterabbit/open-inspector)
+[![conftest-policies](https://github-readme-stats.vercel.app/api/pin/?username=remoterabbit&repo=conftest-policies&title_color=1AAD32&icon_color=1AAD32&text_color=c9d1d9&bg_color=0d1117&border_color=1AAD32&show_owner=true)](https://github.com/remoterabbit/conftest-policies)
 
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.6%20million%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                277 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-🌆 Daytime                2313 commits        ██████████████░░░░░░░░░░░   55.43 % 
-🌃 Evening                1496 commits        █████████░░░░░░░░░░░░░░░░   35.85 % 
-🌙 Night                  87 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   724 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-Tuesday                  773 commits         █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-Wednesday                562 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-Thursday                 448 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-Friday                   950 commits         ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
-Saturday                 145 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-Sunday                   571 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Lua                      9 hrs 39 mins       ███████████████████████░░   92.46 % 
-Go                       21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-TOML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-
-🔥 Editors: 
-Neovim                   10 hrs 26 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    10 hrs 26 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Python** 
-
-```text
-Shell                    8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-Lua                      7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-HCL                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-Jinja                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-Nix                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-```
-
-
-
-
- Last Updated on 14/12/2025 00:13:44 UTC
-<!--END_SECTION:waka-->
+[![databricks-undocumented-settings](https://github-readme-stats.vercel.app/api/pin/?username=remoterabbit&repo=databricks-undocumented-settings&title_color=1AAD32&icon_color=1AAD32&text_color=c9d1d9&bg_color=0d1117&border_color=1AAD32&show_owner=true)](https://github.com/remoterabbit/databricks-undocumented-settings)
+[![pr-description.nvim](https://github-readme-stats.vercel.app/api/pin/?username=remoterabbit&repo=pr-description.nvim&title_color=1AAD32&icon_color=1AAD32&text_color=c9d1d9&bg_color=0d1117&border_color=1AAD32&show_owner=true)](https://github.com/remoterabbit/pr-description.nvim)
 
 </div>
 
