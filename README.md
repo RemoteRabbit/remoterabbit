@@ -23,15 +23,11 @@
 
 ## Some recent work
 
-<div align="center">
-
 [![open-inspector](https://github-readme-stats.vercel.app/api/pin/?username=remoterabbit&repo=open-inspector&title_color=1AAD32&icon_color=1AAD32&text_color=c9d1d9&bg_color=0d1117&border_color=1AAD32&show_owner=true)](https://github.com/remoterabbit/open-inspector)
 [![conftest-policies](https://github-readme-stats.vercel.app/api/pin/?username=remoterabbit&repo=conftest-policies&title_color=1AAD32&icon_color=1AAD32&text_color=c9d1d9&bg_color=0d1117&border_color=1AAD32&show_owner=true)](https://github.com/remoterabbit/conftest-policies)
 
 [![databricks-undocumented-settings](https://github-readme-stats.vercel.app/api/pin/?username=remoterabbit&repo=databricks-undocumented-settings&title_color=1AAD32&icon_color=1AAD32&text_color=c9d1d9&bg_color=0d1117&border_color=1AAD32&show_owner=true)](https://github.com/remoterabbit/databricks-undocumented-settings)
 [![pr-description.nvim](https://github-readme-stats.vercel.app/api/pin/?username=remoterabbit&repo=pr-description.nvim&title_color=1AAD32&icon_color=1AAD32&text_color=c9d1d9&bg_color=0d1117&border_color=1AAD32&show_owner=true)](https://github.com/remoterabbit/pr-description.nvim)
-
-</div>
 
 ---
 
