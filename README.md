@@ -107,10 +107,10 @@
 ## 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#73](https://github.com/RemoteRabbit/open-inspector/pull/73) in [RemoteRabbit/open-inspector](https://github.com/RemoteRabbit/open-inspector)
-2. 💪 Opened PR [#73](https://github.com/RemoteRabbit/open-inspector/pull/73) in [RemoteRabbit/open-inspector](https://github.com/RemoteRabbit/open-inspector)
-3. 🎉 Merged PR [#71](https://github.com/RemoteRabbit/open-inspector/pull/71) in [RemoteRabbit/open-inspector](https://github.com/RemoteRabbit/open-inspector)
-4. 💪 Opened PR [#71](https://github.com/RemoteRabbit/open-inspector/pull/71) in [RemoteRabbit/open-inspector](https://github.com/RemoteRabbit/open-inspector)
+1. 💪 Opened PR [#77](https://github.com/RemoteRabbit/open-inspector/pull/77) in [RemoteRabbit/open-inspector](https://github.com/RemoteRabbit/open-inspector)
+2. 🎉 Merged PR [#40](https://github.com/RemoteRabbit/nvim/pull/40) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
+3. 💪 Opened PR [#40](https://github.com/RemoteRabbit/nvim/pull/40) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
+4. 🎉 Merged PR [#38](https://github.com/RemoteRabbit/pr-description.nvim/pull/38) in [RemoteRabbit/pr-description.nvim](https://github.com/RemoteRabbit/pr-description.nvim)
 <!--END_SECTION:activity-->
 
 <div align="center">
