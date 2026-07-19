@@ -91,11 +91,11 @@
 
 <!--START_SECTION:badges-->
 [![GitHub Foundations](https://images.credly.com/size/80x80/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](https://www.credly.com/badges/6826b76e-84e5-4811-ba05-0b81951b0a4d)
-[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/67017628-d340-4419-9c4f-d714a19609ec)
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/beda3bac-baed-4800-93ac-dab37e109c66)
 [![Cloud Digital Leader Certification](https://images.credly.com/size/80x80/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png)](https://www.credly.com/badges/55d1c6c0-4c6a-475a-9e2e-c2e71a79e7a6)
 [![Microsoft Certified: Azure Data Fundamentals](https://images.credly.com/size/80x80/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png)](https://www.credly.com/badges/d7e7486f-b75d-4ed0-8eee-eefad911be32)
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/80x80/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/e9ea8291-0756-4a4c-9079-ea93efd8f670)
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/67017628-d340-4419-9c4f-d714a19609ec)
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/beda3bac-baed-4800-93ac-dab37e109c66)
 [![Certified in Cybersecurity (CC)](https://images.credly.com/size/80x80/images/2030e43f-8003-4d4b-9630-847add403c87/image.png)](https://www.credly.com/badges/84eaf106-2f5b-4218-9f7f-67caae579deb)
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/6446a785-465c-4f82-83dd-40b0f425b799)
 <!--END_SECTION:badges-->
