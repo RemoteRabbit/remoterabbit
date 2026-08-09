@@ -107,10 +107,10 @@
 ## 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#936](https://github.com/terraform-docs/terraform-docs/pull/936) in [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs)
-2. 🗣 Commented on [#934](https://github.com/terraform-docs/terraform-docs/issues/934#issuecomment-5145136124) in [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs)
-3. 🗣 Commented on [#934](https://github.com/terraform-docs/terraform-docs/issues/934#issuecomment-5134245875) in [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs)
-4. 🎉 Merged PR [#85](https://github.com/RemoteRabbit/open-inspector/pull/85) in [RemoteRabbit/open-inspector](https://github.com/RemoteRabbit/open-inspector)
+1. 🎉 Merged PR [#93](https://github.com/RemoteRabbit/open-inspector/pull/93) in [RemoteRabbit/open-inspector](https://github.com/RemoteRabbit/open-inspector)
+2. 💪 Opened PR [#93](https://github.com/RemoteRabbit/open-inspector/pull/93) in [RemoteRabbit/open-inspector](https://github.com/RemoteRabbit/open-inspector)
+3. 🎉 Merged PR [#936](https://github.com/terraform-docs/terraform-docs/pull/936) in [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs)
+4. 🗣 Commented on [#934](https://github.com/terraform-docs/terraform-docs/issues/934#issuecomment-5145136124) in [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs)
 <!--END_SECTION:activity-->
 
 <div align="center">
