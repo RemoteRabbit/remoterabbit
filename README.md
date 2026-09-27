@@ -107,10 +107,10 @@
 ## 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/RemoteRabbit/zsh/pull/15) in [RemoteRabbit/zsh](https://github.com/RemoteRabbit/zsh)
-2. 💪 Opened PR [#15](https://github.com/RemoteRabbit/zsh/pull/15) in [RemoteRabbit/zsh](https://github.com/RemoteRabbit/zsh)
-3. 🎉 Merged PR [#42](https://github.com/RemoteRabbit/nvim/pull/42) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
-4. 💪 Opened PR [#42](https://github.com/RemoteRabbit/nvim/pull/42) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
+1. 🎉 Merged PR [#10](https://github.com/RemoteRabbit/open-docs/pull/10) in [RemoteRabbit/open-docs](https://github.com/RemoteRabbit/open-docs)
+2. 💪 Opened PR [#10](https://github.com/RemoteRabbit/open-docs/pull/10) in [RemoteRabbit/open-docs](https://github.com/RemoteRabbit/open-docs)
+3. 🎉 Merged PR [#9](https://github.com/RemoteRabbit/open-docs/pull/9) in [RemoteRabbit/open-docs](https://github.com/RemoteRabbit/open-docs)
+4. 💪 Opened PR [#9](https://github.com/RemoteRabbit/open-docs/pull/9) in [RemoteRabbit/open-docs](https://github.com/RemoteRabbit/open-docs)
 <!--END_SECTION:activity-->
 
 <div align="center">
