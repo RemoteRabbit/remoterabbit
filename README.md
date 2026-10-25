@@ -107,10 +107,10 @@
 ## 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44](https://github.com/RemoteRabbit/nvim/pull/44) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
-2. 💪 Opened PR [#44](https://github.com/RemoteRabbit/nvim/pull/44) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
-3. 🎉 Merged PR [#43](https://github.com/RemoteRabbit/nvim/pull/43) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
-4. 💪 Opened PR [#43](https://github.com/RemoteRabbit/nvim/pull/43) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
+1. 🗣 Commented on [#934](https://github.com/terraform-docs/terraform-docs/issues/934#issuecomment-6346680071) in [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs)
+2. 🎉 Merged PR [#44](https://github.com/RemoteRabbit/nvim/pull/44) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
+3. 💪 Opened PR [#44](https://github.com/RemoteRabbit/nvim/pull/44) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
+4. 🎉 Merged PR [#43](https://github.com/RemoteRabbit/nvim/pull/43) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
 <!--END_SECTION:activity-->
 
 <div align="center">
