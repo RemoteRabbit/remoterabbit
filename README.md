@@ -107,10 +107,10 @@
 ## 🔥 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/RemoteRabbit/nvim/pull/45) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
-2. 💪 Opened PR [#45](https://github.com/RemoteRabbit/nvim/pull/45) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
-3. 🗣 Commented on [#934](https://github.com/terraform-docs/terraform-docs/issues/934#issuecomment-6346680071) in [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs)
-4. 🎉 Merged PR [#44](https://github.com/RemoteRabbit/nvim/pull/44) in [RemoteRabbit/nvim](https://github.com/RemoteRabbit/nvim)
+1. 🎉 Merged PR [#21](https://github.com/RemoteRabbit/open-docs/pull/21) in [RemoteRabbit/open-docs](https://github.com/RemoteRabbit/open-docs)
+2. 💪 Opened PR [#21](https://github.com/RemoteRabbit/open-docs/pull/21) in [RemoteRabbit/open-docs](https://github.com/RemoteRabbit/open-docs)
+3. 🎉 Merged PR [#109](https://github.com/RemoteRabbit/open-inspector/pull/109) in [RemoteRabbit/open-inspector](https://github.com/RemoteRabbit/open-inspector)
+4. 💪 Opened PR [#109](https://github.com/RemoteRabbit/open-inspector/pull/109) in [RemoteRabbit/open-inspector](https://github.com/RemoteRabbit/open-inspector)
 <!--END_SECTION:activity-->
 
 <div align="center">
